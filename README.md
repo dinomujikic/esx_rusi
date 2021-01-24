@@ -1,4 +1,4 @@
-# esx_hitmanjob
+# esx_rusijob
 FXServer ESX Rusi Job
 
 [REQUIREMENTS]
