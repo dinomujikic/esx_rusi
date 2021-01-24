@@ -25,7 +25,7 @@ git clone https://github.com/MikeyJY/esx_hitman
 4) Add this in your server.cfg :
 
 ```
-start esx_hitman
+start esx_rusi
 ```
 
 
