@@ -1,5 +1,5 @@
 # esx_hitmanjob
-FXServer ESX Hitman Job
+FXServer ESX Rusi Job
 
 [REQUIREMENTS]
 
